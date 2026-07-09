@@ -101,7 +101,7 @@ The API Gateway provides:
 
 # Architecture
 
-(Soon)
+![API Gateway Architecture](../diagrams/communication/api-gateway-diagram.png)
 
 ---
 
