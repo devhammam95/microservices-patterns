@@ -28,23 +28,28 @@ Each pattern includes:
 # Repository Structure
 
 ```
-docs/
 ├── communication/
 ├── data/
-├── resilience/
-├── observability/
-├── security/
-├── deployment/
+├── diagrams
 ```
 
 ---
 
 # Patterns
 
-## 🏗 Architecture
+## Commuication
 
+- API Gateway
+- API composition
+- Service Discovery
+
+## Data
 - Database per Service
-
+- Saga
+- Saga - Choreography
+- Saga – Orchestration
+- Shared Database
+- Transactional Outbox Pattern
 
 # Contributing
 
