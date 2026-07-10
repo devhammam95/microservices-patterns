@@ -37,7 +37,7 @@ Each pattern includes:
 
 # Patterns
 
-## Commuication
+## Communication
 
 - API Gateway
 - API composition
