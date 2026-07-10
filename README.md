@@ -14,7 +14,6 @@ Each pattern includes:
 - ✅ Problem Statement
 - ✅ Solution
 - ✅ Architecture Diagram
-- ✅ Sequence Diagram
 - ✅ Advantages & Disadvantages
 - ✅ Trade-offs
 - ✅ When to Use
