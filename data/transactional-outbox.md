@@ -16,7 +16,7 @@
 - Event Lifecycle
 - Polling Publisher
 - Change Data Capture (CDC)
-- Polling vs CDC
+- Polling vs Transaction Log Tailing
 - Message Delivery Guarantees
 - Failure Scenarios
 - Advantages
