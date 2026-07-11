@@ -14,7 +14,6 @@ Each pattern includes:
 - ✅ Problem Statement
 - ✅ Solution
 - ✅ Architecture Diagram
-- ✅ Sequence Diagram
 - ✅ Advantages & Disadvantages
 - ✅ Trade-offs
 - ✅ When to Use
@@ -28,23 +27,28 @@ Each pattern includes:
 # Repository Structure
 
 ```
-docs/
 ├── communication/
 ├── data/
-├── resilience/
-├── observability/
-├── security/
-├── deployment/
+├── diagrams
 ```
 
 ---
 
 # Patterns
 
-## 🏗 Architecture
+## Communication
 
+- API Gateway
+- API composition
+- Service Discovery
+
+## Data
 - Database per Service
-
+- Saga
+- Saga - Choreography
+- Saga – Orchestration
+- Shared Database
+- Transactional Outbox Pattern
 
 # Contributing
 
