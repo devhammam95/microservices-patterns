@@ -157,7 +157,7 @@ The Saga Pattern provides:
 
 # Architecture
 
-> Add architecture diagram here.
+![Saga Architecture](../diagrams/data/saga-diagram.png)
 
 ---
 
