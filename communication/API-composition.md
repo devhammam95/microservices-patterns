@@ -101,7 +101,7 @@ API Composition provides:
 
 # Architecture
 
-![API Composition Architecture](../diagrams/communication/api-composition-diagram.png)
+![API Composition Architecture](../diagrams/communication/API-composition-diagram.png)
 
 ---
 
