@@ -50,6 +50,7 @@ Each pattern includes:
 - Saga – Orchestration
 - Shared Database
 - Transactional Outbox Pattern
+- CQRS
 
 
 ## Resilience
