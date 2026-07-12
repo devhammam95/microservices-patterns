@@ -40,12 +40,13 @@ Each pattern includes:
 ## Communication
 
 - API Gateway
-- API composition
+- API Composition
 - Service Discovery
 - Messaging
+- Backend For Frontend
 
 ## Data
-- Database per Service
+- Database Per Service
 - Saga
 - Saga - Choreography
 - Saga – Orchestration
