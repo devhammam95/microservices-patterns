@@ -29,6 +29,7 @@ Each pattern includes:
 ```
 ├── communication/
 ├── data/
+├── resilience/
 ├── diagrams
 ```
 
@@ -49,6 +50,13 @@ Each pattern includes:
 - Saga – Orchestration
 - Shared Database
 - Transactional Outbox Pattern
+
+
+## Resilience
+- Circuit Breaker
+- Retry
+- Bulkhead
+
 
 # Contributing
 
