@@ -42,6 +42,7 @@ Each pattern includes:
 - API Gateway
 - API composition
 - Service Discovery
+- Messaging
 
 ## Data
 - Database per Service
