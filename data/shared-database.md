@@ -1,6 +1,6 @@
-# Shared Database
+# Shared Database (anti-pattern)
 
-> Multiple microservices directly access and share the same database.
+> Multiple microservices directly access and share the same database, this is considered a common anti-pattern because it tightly couples services together, defeating one of the main goals of microservices.
 
 ---
 

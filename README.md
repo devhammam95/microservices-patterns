@@ -42,13 +42,14 @@ Each pattern includes:
 - API Gateway
 - API composition
 - Service Discovery
+- Messaging
 
 ## Data
 - Database per Service
 - Saga
 - Saga - Choreography
 - Saga – Orchestration
-- Shared Database
+- Shared Database (anti-pattern)
 - Transactional Outbox Pattern
 - CQRS
 
