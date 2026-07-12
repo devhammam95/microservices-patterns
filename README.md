@@ -49,7 +49,7 @@ Each pattern includes:
 - Saga
 - Saga - Choreography
 - Saga – Orchestration
-- Shared Database
+- Shared Database (anti-pattern)
 - Transactional Outbox Pattern
 - CQRS
 
