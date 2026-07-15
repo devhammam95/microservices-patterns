@@ -30,6 +30,7 @@ Each pattern includes:
 ├── communication/
 ├── data/
 ├── resilience/
+├── deployment/
 ├── diagrams
 ```
 
@@ -59,6 +60,9 @@ Each pattern includes:
 - Circuit Breaker
 - Retry
 - Bulkhead
+
+## Deployment
+- Sidecar
 
 
 # Contributing
