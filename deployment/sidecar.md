@@ -130,7 +130,7 @@ The Sidecar Pattern provides:
 
 # Architecture
 
-![Sidecar Architecture](../diagrams/deployment/sidecar-diagram.png.png)
+![Sidecar Architecture](../diagrams/deployment/sidecar-diagram.png)
 
 ---
 
