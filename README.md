@@ -31,6 +31,7 @@ Each pattern includes:
 ├── data/
 ├── resilience/
 ├── deployment/
+├── modernization/
 ├── diagrams
 ```
 
@@ -63,6 +64,10 @@ Each pattern includes:
 
 ## Deployment
 - Sidecar
+
+## Modernization
+- Strangler Fig
+- Anti Corruption
 
 
 # Contributing
