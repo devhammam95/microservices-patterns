@@ -27,6 +27,7 @@ Each pattern includes:
 # Repository Structure
 
 ```
+├── decomposition/
 ├── communication/
 ├── data/
 ├── resilience/
@@ -38,6 +39,10 @@ Each pattern includes:
 ---
 
 # Patterns
+
+## Decomposition
+- Decompose By Business Capability
+- Decompose By Subdomain
 
 ## Communication
 
