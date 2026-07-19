@@ -74,6 +74,7 @@ Each pattern includes:
 - Strangler Fig
 - Anti Corruption
 
+## Observability (Under-documented)
 
 # Contributing
 
